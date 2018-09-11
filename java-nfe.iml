@@ -50,7 +50,7 @@
     <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-stax-api_1.0_spec:1.0.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.james:apache-mime4j-core:0.7.2" level="project" />
     <orderEntry type="library" name="Maven: br.com.autocom:nfe-xsd:9-v1.60c" level="project" />
-    <orderEntry type="library" name="Maven: br.com.samuelweb:java_certificado:1.9" level="project" />
+    <orderEntry type="library" name="Maven: br.com.u2d:java_certificado:1.9" level="project" />
     <orderEntry type="library" name="Maven: commons-httpclient:commons-httpclient:3.1" level="project" />
     <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.2" level="project" />
     <orderEntry type="library" name="Maven: org.bouncycastle:bcprov-jdk16:1.46" level="project" />
