@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: br.com.autocom:nfe-xsd:9-v1.60c">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/br/com/autocom/nfe-xsd/9-v1.60c/nfe-xsd-9-v1.60c.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/br/com/autocom/nfe-xsd/9-v1.60c/nfe-xsd-9-v1.60c-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/br/com/autocom/nfe-xsd/9-v1.60c/nfe-xsd-9-v1.60c-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
