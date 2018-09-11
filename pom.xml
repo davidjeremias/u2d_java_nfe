@@ -13,6 +13,11 @@
 			<id>Release</id>
 			<url>http://www.autocomsistemas.com.br:8081/nexus/content/repositories/autocom/</url>
 		</repository>
+
+		<repository>
+			<id>myMavenRepo.read</id>
+			<url>https://mymavenrepo.com/repo/vdtIz2Ls5fRG0wgD7NoS/</url>
+		</repository>
 	</repositories>
 
 	<distributionManagement>
@@ -47,9 +52,9 @@
 
 		<!-- Certificado Utils -->
 		<dependency>
-			<groupId>br.com.samuelweb</groupId>
+			<groupId>br.com.u2d</groupId>
 			<artifactId>java_certificado</artifactId>
-            <version>1.9</version>
+			<version>1.9</version>
 		</dependency>
 
 		<!-- MArsheller Cdata -->
